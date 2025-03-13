@@ -1,3 +1,5 @@
+# MIT License
+# Copyright (c) 2025 Benb0jangles
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
